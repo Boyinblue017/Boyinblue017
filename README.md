@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data science and software development
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: he him
 - ⚡ Fun fact:The skies are dark at daytime
 
 <!---
