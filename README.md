@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Boyinblue017
 - 👀 I’m interested in tech, AI, football
 - 🌱 I’m currently learning Data science and software development
-- 💞️ I’m looking to collaborate 
-- 📫 How to reach me ...
 - 😄 Pronouns: he him
 - ⚡ Fun fact:The skies are dark at daytime
 
